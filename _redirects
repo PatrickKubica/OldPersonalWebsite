@@ -1,2 +1,1 @@
-# Redirect default Netlify subdomain to primary domain
-https://gallant-fermi-d146fb.netlify.com/* https://patrickkubica.de/:splat 301!
+https://gallant-fermi-d146fb.netlify.com/* https://www.patrickkubica.de/:splat 301!
